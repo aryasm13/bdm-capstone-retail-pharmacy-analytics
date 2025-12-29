@@ -1,9 +1,13 @@
 # Data-Driven Optimization and Scalability of a Retail Pharmacy Firm
 
+---
+
 ## BDM Capstone Project – IIT Madras Online BS Degree Program
 
 **Student:** Arya Mulay  
 **Roll Number:** 23F3002123  
+
+---
 
 ## Project Overview
 
